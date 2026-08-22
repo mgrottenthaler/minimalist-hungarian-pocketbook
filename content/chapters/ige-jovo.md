@@ -30,9 +30,9 @@ Nincs önálló jövő idejű igealak — a jövőt a **fog** segédige és a f�
 - *Fogok **egy könyvet** olvasni.* (alanyi, határozatlan tárgy)
 - *Fogom **a könyvet** olvasni.* / gyakoribb: *El fogom olvasni **a könyvet**.* (tárgyas)
 
-## Igekötős igénél: a kötő elválik
+## Igekötős igénél: az igekötő elválik
 
-Ha az ige igekötős (lásd a „Mondattan" fejezetet), az igekötő rendszerint a **fog** elé kerül, nem az igenévhez tapadva:
+Ha az ige igekötős (lásd a „Mondattan” fejezetet), az igekötő rendszerint a **fog** elé kerül, nem az igenévhez tapadva:
 
 - *megnézem* (jelen) → ***Meg** fogom nézni.* (nem *fogom megnézni*, bár ez is előfordul köznyelvben)
 - *elolvasom* → ***El** fogom olvasni.*

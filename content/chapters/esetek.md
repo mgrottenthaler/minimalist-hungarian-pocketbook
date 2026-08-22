@@ -3,7 +3,7 @@ title: "Esetek"
 weight: 30
 ---
 
-A magyarban nincsenek elöljárószók a névutók előtt megjelenő esetek helyén — a viszonyt rag fejezi ki, a főnév végén. A ragok magánhangzó-illeszkedés szerint váltanak alakot; a táblázatok a mély / magas illeszkedésű párokat mutatják, ahol van harmadik, ajakkerekítéses alak is, azt is.
+A magyarban nincsenek elöljárószók — a viszonyt rag fejezi ki, a főnév végén. A ragok magánhangzó-illeszkedés szerint váltanak alakot; a táblázatok a mély / magas illeszkedésű párokat mutatják, ahol van harmadik, ajakkerekítéses alak is, azt is.
 
 ## A hely három rácsa
 
@@ -23,7 +23,7 @@ Példák egy szóval, mindhárom sorban:
 | hova? | ház**ba** | asztal**ra** | Péter**hez** |
 | honnan? | ház**ból** | asztal**ról** | Péter**től** |
 
-> A felszíni **hol?** rag két rétegű: magánhangzó-tő után puszta **-n** (*autó**n***), mássalhangzó-tő után kötőhangzós **-on/-en/-ön** (*asztal**on**, kert**en**, tükr**ön***).
+> A felszíni **hol?** rag két rétegű: magánhangzó-tő után puszta **-n** (*autó**n***), mássalhangzó-tő után kötőhangzós **-on/-en/-ön** (*asztal**on**, szék**en**, tükr**ön***).
 
 ## A tárgyeset: -t
 
@@ -35,7 +35,7 @@ A közvetlen tárgy jele, kötőhangzóval mássalhangzós tő után.
 | mély, mássalhangzó | + at/ot | ház → ház**at**, asztal → asztal**ot** |
 | magas, mássalhangzó | + et/öt | kert → kert**et**, gyümölcs → gyümölcs**öt** |
 
-> Sok egytagú tő kötőhangzó nélkül is elviseli a **-t**-t: *könyv → könyvet*, de *ház → házat* — nincs kivétel nélküli szabály, a kötőhangzós/kötőhangzó nélküli alak szavanként rögzült.
+> Sok egytagú tő kötőhangzó nélkül is elviseli a **-t**-t: *pénz → pénzt*, *bor → bort*, de *könyv → könyvet*, *ház → házat* — nincs kivétel nélküli szabály, a kötőhangzós/kötőhangzó nélküli alak szavanként rögzült.
 
 ## További esetek
 

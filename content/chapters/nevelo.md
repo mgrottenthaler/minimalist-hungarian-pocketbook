@@ -19,15 +19,15 @@ weight: 10
 | **a** | a könyv, a házak, a tanárnak |
 | **az** | az alma, az ötletek, az asztalon |
 
-> Az elválasztás a kiejtett hangon múlik, nem a betűn: *az egyetem* (magánhangzó), de *a húsz* (mássalhangzó-hangzású *h*).
+> A választás a kiejtett hangon múlik, nem a leírt betűn: *az 5-ös* (ötös), de *a 100-as* (százas); *az MTA* (em-té-á), de *a HÉV* (hév).
 
 ## Amikor elmarad a névelő
 
-- foglalkozás, nemzetiség, vallás állítmányként, **van/vagyok** után: *Tanár vagyok. Orvos vagy?*
-- általános, nem konkrét állítások: *Szeretek zenét hallgatani. Van időm.*
+- foglalkozás, nemzetiség, vallás állítmányként: *Tanár vagyok. Orvos vagy?*
+- általános, nem konkrét állítások: *Szeretek zenét hallgatni. Van időm.*
 - megszólítás: *Gyerekek, gyertek ide!*
 - felsorolásban, mennyiség után gyakran elmarad: *két alma*, nem *két az alma*
 
 ## A névelő és a tárgyas ragozás
 
-> A határozott névelős — vagy más módon meghatározott — tárggyal álló ige **tárgyas ragozást** kíván, nem alanyit: *Olvasom a könyvet*, nem *olvasok a könyvet*. Határozatlan vagy általános tárggyal az ige alanyi marad: *Olvasok egy könyvet. Könyvet olvasok.* Lásd az „Ige: jelen idő" fejezetet.
+> A határozott névelős — vagy más módon meghatározott — tárggyal álló ige **tárgyas ragozást** kíván, nem alanyit: *Olvasom a könyvet*, nem *olvasok a könyvet*. Határozatlan vagy általános tárggyal az ige alanyi marad: *Olvasok egy könyvet. Könyvet olvasok.* Lásd az „Ige: jelen idő” fejezetet.

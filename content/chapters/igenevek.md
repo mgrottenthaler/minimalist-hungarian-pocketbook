@@ -3,7 +3,7 @@ title: "Igenevek"
 weight: 140
 ---
 
-Az igenevek igéből képzett szavak, amelyek nem hordozzák a teljes igei személyragozást, mégis igei vonzatuk marad. Négy fajtájuk van.
+Az igenevek igéből képzett szavak, amelyek nem hordozzák a teljes igei személyragozást, mégis igei vonzatuk marad. Három fajtájuk van — főnévi, melléknévi és határozói igenév —, a melléknévi igenévnek pedig három alakja.
 
 ## Főnévi igenév: -ni
 
@@ -30,7 +30,7 @@ Módbeli segédigék (**kell, szabad, lehet, tilos**) után a cselekvő személy
 Az éppen zajló cselekvést jelöli; melléknévként vagy főnévként is használható.
 
 - *vár* → vár**ó**, *kér* → kér**ő**, *olvas* → olvas**ó**
-- *a **váró** utas* (melléknév) — *a **váróterem*** — *az **olvasó*** (főnév: „olvasó ember" → „olvasó")
+- *a **váró** utas* (melléknév) — *a **váróterem*** — *az **olvasó*** (főnév: „olvasó ember” → „olvasó”)
 
 ## Befejezett melléknévi igenév: -t/-tt
 
@@ -44,7 +44,7 @@ Ugyanaz a jel, mint a múlt időé; lezárt, már megtörtént cselekvés eredm�
 Még be nem következett, elvégzendő cselekvést jelöl — inkább hivatalos, írott regiszterben él.
 
 - *vár* → vár**andó**, *tesz* → te**endő**, *tanul* → tanul**andó**
-- *a **teendők** listája*, *a **várandós** anya* (szó szerint: „a még várandó")
+- *a **teendők** listája*, *a **várandós** anya* (szó szerint: „a még várandó”)
 
 ## Határozói igenév: -va/-ve
 

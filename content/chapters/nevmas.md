@@ -5,7 +5,7 @@ weight: 70
 
 ## Személyes névmások
 
-Alanyesetben szinte mindig elmaradnak — az igerag már jelzi a személyt (lásd az „Ige: jelen idő" fejezetet). Csak nyomatékkor, szembeállításkor jelennek meg: *Én dolgozom, te pihensz.*
+Alanyesetben szinte mindig elmaradnak — az igerag már jelzi a személyt (lásd az „Ige: jelen idő” fejezetet). Csak nyomatékkor, szembeállításkor jelennek meg: *Én dolgozom, te pihensz.*
 
 | | Alany | Tárgy | Részes |
 |---|---|---|---|

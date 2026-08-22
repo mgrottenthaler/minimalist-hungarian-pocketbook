@@ -26,12 +26,12 @@ Ezeknek nincs hol/hova/honnan hármasuk — egyetlen viszonyt fejeznek ki.
 | Névutó | Jelentés | Példa |
 |---|---|---|
 | **számára**, **részére** | -nak/-nek helyett, nyomatékosabban | *ez a levél a főnök **számára** készült* |
-| **miatt** | ok | *a eső **miatt** maradtunk otthon* |
+| **miatt** | ok | *az eső **miatt** maradtunk otthon* |
 | **ellen** | szembenállás | *harcol a betegség **ellen*** |
 | **helyett** | csere | *tea **helyett** kávét kérek* |
 | **szerint** | vélemény, forrás | *a hír **szerint** holnap havazik* |
 | **nélkül** | hiány | *cukor **nélkül** iszom a kávét* |
-| **által** | cselekvő (szenvedő szerkezetben) | *a levelet a titkár **által** küldték* |
+| **által** | cselekvő (szenvedő értelmű szerkezetben) | *a titkár **által** küldött levél* |
 | **keresztül** | átmenet | *a parkon **keresztül** megyünk* |
 
 ## Névmási alak: a névutó személyragozva

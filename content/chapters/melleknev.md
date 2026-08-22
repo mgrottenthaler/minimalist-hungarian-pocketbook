@@ -33,7 +33,7 @@ Ha a melléknév állítmány — vagyis maga állítja a mondatot, **van/vannak
 
 A felsőfok a középfok elé tett **leg-** előtaggal jön létre — semmi más nem változik.
 
-- szép**ebb** → **leg**szebb
+- sz**ebb** → **leg**szebb
 - magas**abb** → **leg**magasabb
 - jobb → **leg**jobb
 
@@ -57,7 +57,7 @@ Néhány igen gyakori melléknél a középfok nem a szabályos toldalékolássa
 
 Két dolog összevetésére két, egyenrangú szerkezet van.
 
-- *Péter magasabb **Annánál**.* — közelítő eset (lásd az „Esetek" fejezetet)
+- *Péter magasabb **Annánál**.* — közelítő eset (lásd az „Esetek” fejezetet)
 - *Péter magasabb, **mint** Anna.* — kötőszóval, vessző előzi meg
 
 A kettő fölcserélhető, stílustól függ; írásban gyakoribb a *mint*-es forma.

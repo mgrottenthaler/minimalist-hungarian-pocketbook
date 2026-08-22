@@ -31,11 +31,11 @@ A kötőhangzós **-ott/-ett/-ött** csak ott jelenik meg, ahol a mássalhangzó
 | (ti) | vár**tátok** | kér**tétek** |
 | (ők) | vár**ták** | kér**ték** |
 
-> **Az 1. személy egyes számban a két ragozás egybeesik**: *vártam* jelenti azt is, hogy „vártam" (alanyi), azt is, hogy „vártam **valamit/valakit**" (tárgyas) — a jelen időben ez a két alak élesen elválik (*várok* / *várom*), a múltban nem.
+> **Az 1. személy egyes számban a két ragozás egybeesik**: *vártam* jelenti azt is, hogy „vártam” (alanyi), azt is, hogy „vártam **valamit/valakit**” (tárgyas) — a jelen időben ez a két alak élesen elválik (*várok* / *várom*), a múltban nem.
 
 ## Amikor kötőhangzó kell
 
-Az **-ott/-ett/-ött** azoknál a töveknél jelenik meg mindenhol, amelyek maguk is **-t**-re vagy nehezen ejthető mássalhangzó-torlódásra végződnek (*fest, épít, olvas* — utóbbi kettő az alanyi ragozásban); azoknál, amelyek csak bizonyos torlódást hoznának létre kötőhangzó nélkül (*mond, told*), csak az E/3-ban. Magánhangzós vagy egyszerű mássalhangzós tövek (*vár, kér, néz, lát*) sosem kérik kötőhangzót.
+Az **-ott/-ett/-ött** minden személyben megjelenik azoknál a töveknél, amelyek **-t**-re vagy nehezen ejthető mássalhangzó-torlódásra végződnek: *fest → festettem*, *épít → építettem*, *köt → kötöttem*. A legtöbb más mássalhangzós tő csak az E/3-ban kéri: *mond → mondtam*, de *mondott*; ugyanígy *néz → nézett*, *olvas → olvasott*, *lát → látott*. A **-l, -r, -n, -ny, -j** végű tövek ott sem kérik: *vár → várt*, *kér → kért*, *tanul → tanult*, *ül → ült*.
 
 ## A múlt idő használati köre
 

@@ -31,13 +31,13 @@ A magyar igének két teljes jelenidejű ragozása van: **alanyi** (nincs meghat
 | (ti) | vár**játok** | kér**itek** | köt**itek** |
 | (ők) | vár**ják** | kér**ik** | köt**ik** |
 
-> A **-j-** a sziszegő tövűeknél (**-s, -sz, -z, -dz**) teljesen hasonul: *olvas → olvassa, olvassuk, olvassák*; *néz → nézzük, nézzétek*. **-t** végű tövön a **-j-** írásban megmarad (*mutat → mutatja*), bár ejtésben összeolvad vele.
+> A **-j-** a sziszegő tövűeknél (**-s, -sz, -z, -dz**) teljesen hasonul: *olvas → olvassa, olvassuk, olvassák*; *néz → nézzük* (de *nézi*, *nézitek* — ezekben nincs **-j-**). **-t** végű tövön a **-j-** írásban megmarad (*mutat → mutatja*), bár ejtésben összeolvad vele.
 
-## Az „én ... téged" alak: -lak/-lek
+## Az „én ... téged” alak: -lak/-lek
 
 Amikor az alany **én**, a tárgy pedig **te** (vagy **ti**), sem a tiszta alanyi, sem a tiszta tárgyas alak nem áll — egyetlen külön végződés, **-lak/-lek**, fejezi ki mindkettőt egyszerre.
 
-- *Szeret**lek**.* — Szeretlek (téged/titeket).
+- *Szeret**lek**.* — a tárgy *téged* vagy *titeket*, külön névmás nélkül is
 - *Lát**lak** holnap.*
 - *Kér**lek**, segíts.*
 

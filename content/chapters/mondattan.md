@@ -21,12 +21,12 @@ Amit a beszélő **kiemel** — amire rákérdezhetnénk, amit szembeállít má
 
 > A fókuszpozíció és az igekötő szétválása a legmegbízhatóbb jel arra, hogy egy mondatrész hangsúlyos: ha az igekötő az ige **mögött** áll, valami előtte fókuszban van.
 
-## Tagadás: nem is fókuszhely
+## Tagadás: a nem is fókuszhely
 
 A **nem** ugyanabba a pozícióba kerül, mint a fókusz, és ugyanúgy szétválasztja az igekötőt:
 
 - *Péter **nem** írta **meg** a levelet.* (nem *nem megírta*)
-- ***Nem** Péter írta meg a levelet.* — nem Pétert tagadjuk, hanem az alanyt cseréljük
+- ***Nem** Péter írta meg a levelet.* — nem a cselekvést tagadjuk, hanem az alanyt
 
 ## Kérdés
 
@@ -42,7 +42,7 @@ Kiegészítendő kérdés: a kérdőszó maga foglalja el a fókuszhelyet, és u
 
 ## Az alany elmarad
 
-Az alanyi névmás a legtöbbször elmarad — az igerag már jelzi a személyt (lásd az „Ige: jelen idő" fejezetet). Csak nyomatékkor, szembeállításkor jelenik meg: *Én dolgozom, ő pihen.*
+Az alanyi névmás a legtöbbször elmarad — az igerag már jelzi a személyt (lásd az „Ige: jelen idő” fejezetet). Csak nyomatékkor, szembeállításkor jelenik meg: *Én dolgozom, ő pihen.*
 
 ## Kötőszók
 
@@ -59,7 +59,7 @@ Az alanyi névmás a legtöbbször elmarad — az igerag már jelzi a személyt 
 | célhatározói | **hogy** (felszólító móddal) |
 | okhatározói | mert, mivel, hiszen |
 | feltételes | ha |
-| megengedő | bár, habár, noha, annak ellenére hogy |
+| megengedő | bár, habár, noha, annak ellenére, hogy |
 | időhatározói | amikor, mióta, miután, mielőtt, amíg |
 
-> **hogy** kétféle mellékmondatot vezet be: kijelentő móddal ténymegállapítást (*Tudom, **hogy** eljön*), felszólító móddal szándékot vagy célt (*Azt akarom, **hogy** eljöjjön*) — lásd az „Ige: módok" fejezetet.
+> **hogy** kétféle mellékmondatot vezet be: kijelentő móddal ténymegállapítást (*Tudom, **hogy** eljön*), felszólító móddal szándékot vagy célt (*Azt akarom, **hogy** eljöjjön*) — lásd az „Ige: módok” fejezetet.

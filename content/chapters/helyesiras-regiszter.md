@@ -5,12 +5,12 @@ weight: 170
 
 ## Magázás: Ön/maga + E/3
 
-A formális „ön" nem külön igealakot kap, hanem a 3. személy egyes számú igét — mintha „ő"-ről beszélnénk, csak a hallgatóhoz intézve.
+A formális „Ön” nem külön igealakot kap, hanem a 3. személy egyes számú igét — mintha „ő”-ről beszélnénk, csak a hallgatóhoz intézve.
 
 | Tegező | Magázó |
 |---|---|
 | Hogy **vagy**? | Hogy **van**? |
-| **Kéred** a kávét? | **Kéri** a kávét, Ön? |
+| **Kéred** a kávét? | **Kéri** a kávét? |
 | Te **mit gondolsz**? | Ön **mit gondol**? |
 
 Többes számban ugyanígy, T/3-mal: **Önök hogy vannak?**
@@ -44,4 +44,4 @@ A hét napjai, a hónapok, a nemzetiségek és a nyelvek neve **kisbetűvel** í
 
 ## Amit felismersz, de nem használsz
 
-**A régi elbeszélő és folyamatos múlt** — a modern magyar egyetlen múlt időt használ (lásd az „Ige: múlt idő" fejezetet), de a 20. század elejéig még élt egy háromtagú múltidő-rendszer (*vala*-formák), amellyel 19. századi szövegekben, régi bibliafordításokban találkozhatsz. A mai nyelvhasználó nem termeli, csak felismeri.
+**A régi elbeszélő és folyamatos múlt** — a modern magyar egyetlen múlt időt használ (lásd az „Ige: múlt idő” fejezetet), de a 20. század elejéig még élt egy háromtagú múltidő-rendszer (*vala*-formák), amellyel 19. századi szövegekben, régi bibliafordításokban találkozhatsz. A mai nyelvhasználó nem termeli, csak felismeri.

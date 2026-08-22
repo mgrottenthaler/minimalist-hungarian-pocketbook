@@ -38,7 +38,7 @@ A leggyakoribb igék térnek el legjobban a szabályos mintától — ahogy más
 
 ## eszik, iszik: v-tövű múlt
 
-Jelenben szabályos **-ik** ige mind a kettő (lásd az „Ige: jelen idő" fejezetet), de a múltban egy rejtett **v** bukkan elő az E/3-ban, míg a többi személyben egyszerűen hosszú **-tt**-re redukálódik.
+Jelenben szabályos **-ik** ige mind a kettő (lásd az „Ige: jelen idő” fejezetet), de a múltban egy rejtett **v** bukkan elő az E/3-ban, míg a többi személyben egyszerűen hosszú **-tt**-re redukálódik.
 
 | | eszik | iszik |
 |---|---|---|
@@ -49,4 +49,4 @@ Jelenben szabályos **-ik** ige mind a kettő (lásd az „Ige: jelen idő" feje
 | (ti) | ettetek | ittatok |
 | (ők) | ettek | ittak |
 
-> **eszik** magas hangrendű (*ettem, egyél*), **iszik** viszont mély hangrendű a toldalékok szempontjából (*ittam, igyál*) — pedig mindkettő ugyanolyan magánhangzóra épül. Csak megtanulható, nem vezethető le.
+> **eszik** magas hangrendű (*ettem, egyél*), **iszik** viszont mély hangrendű a toldalékok szempontjából (*ittam, igyál*) — pedig a szótári alakjuk magánhangzói egyaránt magasak. Csak megtanulható, nem vezethető le.

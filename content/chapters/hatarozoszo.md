@@ -40,7 +40,7 @@ A középfok és felsőfok jele közvetlenül a melléknévi tő és a határoz�
 
 ## Szórend
 
-A magyarban nincs egyetlen rögzített hely a határozószónak — a mondat topik–fókusz szerkezete dönt (lásd a „Mondattan" fejezetet). Ökölszabályként a módhatározó közvetlenül az ige előtt áll, különösen igekötős igénél:
+A magyarban nincs egyetlen rögzített hely a határozószónak — a mondat topik–fókusz szerkezete dönt (lásd a „Mondattan” fejezetet). Ökölszabályként a módhatározó közvetlenül az ige előtt áll:
 
 - *Gyorsan **megoldotta** a feladatot.*
 - *Jól **beszél** magyarul.*

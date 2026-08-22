@@ -3,7 +3,7 @@ title: "Birtoklás"
 weight: 40
 ---
 
-A magyarban nincs birtokos névmás önmagában ragozó szerkezetben, mint az *„az én könyvem"* angol *„my book"* megfelelője — a birtokost egy **birtokos személyjel** jelöli a birtokolt szón, a névmás csak nyomatékkor vagy egyértelműsítéskor jelenik meg mellette.
+A birtokviszonyt nem külön birtokos névmás fejezi ki, hanem **birtokos személyjel** a birtokolt szón: *a könyvem*, *a házad*. A névmás csak nyomatékkor vagy egyértelműsítéskor jelenik meg mellette.
 
 ## Egy birtok, mássalhangzós tő
 
@@ -18,7 +18,7 @@ A magyarban nincs birtokos névmás önmagában ragozó szerkezetben, mint az *�
 
 ## Egy birtok, magánhangzós tő
 
-Ide a személyjel **-j-** elemmel bővül a 3. személyben.
+Itt a személyjel **-j-** elemmel bővül a 3. személyben.
 
 | | autó (mély) | kesztyű (magas) |
 |---|---|---|
@@ -76,8 +76,8 @@ A birtokos maga is állhat főnévként, rag nélkül, közvetlenül a birtokolt
 
 ## A birtoklás kifejezése: van + részes eset
 
-A magyarban nincs önálló „birtokolni" ige — a **van** és a birtokos részes esete (**-nak/-nek**) adja ki az angol *have* megfelelőjét, a birtokolt főnéven pedig ott a személyjel is:
+A magyarban nincs önálló „birtokolni” ige — a **van** és a birtokos részes esete (**-nak/-nek**) fejezi ki a birtoklást, a birtokolt főnéven pedig ott a személyjel is:
 
-- *Nekem van egy autóm.* — Van egy autóm. (Van kocsim.)
+- *Nekem van egy autóm.* — nyomatékkal; semlegesen elég: *Van egy autóm.*
 - *Péternek van egy háza.*
 - *Nincs időnk.* — tagadva a **van** helyett **nincs** áll.

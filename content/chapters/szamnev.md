@@ -18,11 +18,11 @@ weight: 60
 | 9 kilenc | 18 tizennyolc | 90 kilencven | |
 | | 19 tizenkilenc | | |
 
-> **kettő** vagy **két**? Önállóan, főnév nélkül **kettő**: *Hányan vagytok? — Ketten.* Főnév előtt **két**: *két könyv*, nem *kettő könyv*. Ugyanez a 12, 22 stb. végén: *tizenkét könyv*, de *Hány óra? — Tizenkettő.*
+> **kettő** vagy **két**? Önállóan, főnév nélkül **kettő**: *Hány testvéred van? — Kettő.* Főnév előtt **két**: *két könyv*, nem *kettő könyv*. Ugyanez a 12, 22 stb. végén: *tizenkét könyv*, de *Hány óra? — Tizenkettő.*
 
 ## Főnévvel: egyes szám marad
 
-Számnév után a főnév **nem** kap többes jelet — a szám maga hordozza a többességet. Lásd a „Főnév" fejezetet.
+Számnév után a főnév **nem** kap többes jelet — a szám maga hordozza a többességet. Lásd a „Főnév” fejezetet.
 
 - *két könyv*, *öt év*, *száz forint* (nem *könyvek, évek, forintok*)
 
@@ -59,7 +59,7 @@ Kivétel: 1/2 = **fél**, nem *másod* — *fél óra*, *félig*.
 |---|---|---|
 | szorzó/ismétlő | -szor/-szer/-ször | egy**szer**, két**szer**, öt**ször**, hány**szor** |
 | elosztó | -nként | fej**enként**, hét**enként** |
-| páros csoportosítás | -val/-vel + -sával/-esével | kett**esével**, hárm**asával** |
+| csoportosító | -asával/-esével | kett**esével**, hárm**asával** |
 
 ## Az óra
 
@@ -73,12 +73,12 @@ A magyar a következő órát veszi alapul: **negyed** és **háromnegyed** mind
 | 1:45 | **háromnegyed** kettő |
 | 2:00 | két óra |
 
-- *Hány óra van? — Negyed kettő.* (nem "egy negyed")
+- *Hány óra van? — Negyed kettő.* (nem „egy negyed”)
 - pontos, hivatalos alak: *egy óra harminc perc*
 
 ## Dátum és évszám
 
-- *hányadika van?* — **elsején**, **másodikán**, **harmadikán**... (a nap sorszáma + -án/-én/-n)
+- *hányadikán?* — **elsején**, **másodikán**, **harmadikán**... (a nap sorszáma + -án/-én)
 - év + hónap + nap sorrendben: *2026. augusztus 21.*
 - 2026 kiolvasva: *kétezer-huszonhat*
 
