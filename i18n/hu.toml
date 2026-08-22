@@ -17,6 +17,11 @@ versionLabel = "Verzió"
 buyPrimary = "Nyomtatott példány rendelése"
 buySecondary = "Order a printed copy — via Lulu"
 
+# Shown instead of buyPrimary/buySecondary while hugo.toml's params.lulu is
+# still the "#TODO-lulu-listing" placeholder.
+buyUnavailablePrimary = "Hamarosan elérhető"
+buyUnavailableSecondary = "Még nem kapható a Lulu oldalon"
+
 noteLicensePre = "A könyv ingyen olvasható, letölthető és nyomtatható — lásd a"
 noteLicenseLink = "licencet"
 noteLicensePost = ". Luluból vásárolva 2 € jut a szerzőnek. Az oldal alkalmazásként telepíthető a telefonra, és a böngésző menüjéből offline is olvasható."
@@ -36,6 +41,20 @@ notePdfCover = "borító"
 notePracticePre = "Gyakorolnád ezeket az alakokat? Próbáld ki a"
 notePracticeLink = "VidraGramot"
 notePracticePost = " — rövid, azonnal javított gyakorlatok, offline is működik."
+
+# Shown instead of notePractice* while data/vidragram.yaml (in the shared
+# theme) doesn't list this book's params.lang yet.
+notePracticeMissingPre = "A VidraGram még nem kínál gyakorlatokat magyarul."
+notePracticeMissingLink = "Jelezd"
+notePracticeMissingPost = ", ha szeretnéd, hogy elkészüljön."
+
+# The sibling-book list built from data/series.yaml (in the shared theme),
+# plus a fixed "missing a language" contact line.
+noteSeriesPre = "Ez a sorozat megvan még ezeken a nyelveken is:"
+noteSeriesPost = "."
+noteSeriesMissingPre = "Hiányzik egy nyelv?"
+noteSeriesMissingLink = "Jelezd"
+noteSeriesMissingPost = ", hogy felvegyem a listára."
 
 toc = "Tartalom"
 

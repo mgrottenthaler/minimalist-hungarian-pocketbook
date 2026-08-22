@@ -34,10 +34,6 @@ disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
   # No Lulu listing exists yet for this book — swap in the real product URL
   # once one is published (see the Romanian book's hugo.toml for the shape).
   lulu = "#TODO-lulu-listing"
-  # No VidraGram course exists for Hungarian yet (checked 2026-08-21) — leave
-  # practiceUrl unset so both the back-cover line and the site-note paragraph
-  # stay out of the DOM (see the theme's [params] contract). Add it back once
-  # a Hungarian course ships there.
 
   # The theme's [params] contract — see themes/pocketbook-theme/README.md.
   lang = "hu"
