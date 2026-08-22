@@ -38,6 +38,11 @@ notePdfLabel = "Nyomdakész PDF:"
 notePdfInterior = "belív"
 notePdfCover = "borító"
 
+# Uppercase eyebrow labels on the two cross-sell cards in the .cross-sell
+# section (VidraGram + sibling-book list) — see the theme's home.html.
+crossPracticeKicker = "Gyakorlás"
+crossSeriesKicker = "A sorozat"
+
 notePracticePre = "Gyakorolnád ezeket az alakokat? Próbáld ki a"
 notePracticeLink = "VidraGramot"
 notePracticePost = " — rövid, azonnal javított gyakorlatok, offline is működik."
