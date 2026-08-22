@@ -208,10 +208,10 @@ linked from a short web-only note above the contents. That note, and the
 the script at the bottom of the theme's `layouts/home.html`) so neither
 shows up in the print output.
 
-No VidraGram course exists for Hungarian yet (checked 2026-08-21, see the
-theme's `[params]` contract) — `practiceUrl` stays unset in `hugo.toml`, so
-neither the back-cover line nor the site-note paragraph about it render. Add
-it once a Hungarian course ships there.
+A VidraGram course for Hungarian now exists (`/hu/`, confirmed against the
+site's sitemap.xml, 2026-08-22) and is listed in the theme's
+`data/vidragram.yaml`, so the back-cover line and the site-note paragraph
+about it render automatically.
 
 ---
 
