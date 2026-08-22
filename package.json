@@ -1,0 +1,13 @@
+{
+  "name": "hungarian-grammar-pocketbook",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "hugo --cleanDestinationDir && PDF_BASENAME=magyar-nyelvtan node themes/pocketbook-theme/scripts/build-pdf.mjs && PDF_BASENAME=magyar-nyelvtan node themes/pocketbook-theme/scripts/build-cover.mjs && node themes/pocketbook-theme/scripts/gen-og-image.mjs",
+    "serve": "hugo server --disableFastRender --baseURL http://localhost:1313/"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "puppeteer-core": "^24.0.0"
+  }
+}

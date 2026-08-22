@@ -1,0 +1,69 @@
+baseURL = "/"
+locale = "hu"
+defaultContentLanguage = "hu"
+title = "The Minimalist Hungarian Pocketbook"
+
+# Layouts, CSS, PWA shell and the PDF build scripts live in the shared theme
+# (git submodule at themes/pocketbook-theme) — see its README for the
+# [params] and i18n contract this book fills in below.
+theme = ["pocketbook-theme"]
+
+# robotsTXT stays disabled: static/robots.txt is a plain file instead (it
+# only ever needs one "Allow: /" line, no templating). sitemap stays enabled
+# — layouts/_default/sitemap.xml below emits the single home-page URL.
+disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
+
+# The book is a single HTML document assembled by layouts/home.html and paged
+# into a PDF by paged.js. Chapters stay in site.RegularPages (list = always) so
+# the layout can gather them, but never get an output file of their own.
+[[cascade]]
+  [cascade.target]
+    path = "/chapters/**"
+  [cascade.build]
+    render = "never"
+    list = "always"
+
+[params]
+  subtitle = "lényegi nyelvtan"
+  # Back-cover copy and imprint line — see the theme's layouts/cover.html. In
+  # Hungarian, like the book itself; only the README is in English.
+  blurb = "Paradigmák, végződések és igeidő-képzés, amilyen kevés szöveggel csak lehet. Ismétlés B2 szintre, nem tanfolyam."
+  omits = "Nincs gyakorlat, nincs szókincs, nincs kiejtés — csak az alakok."
+  url = "https://hungarian.grottenthaler.eu"
+  repo = "github.com/mgrottenthaler/minimalist-hungarian-pocketbook"
+  # No Lulu listing exists yet for this book — swap in the real product URL
+  # once one is published (see the Romanian book's hugo.toml for the shape).
+  lulu = "#TODO-lulu-listing"
+  # No VidraGram course exists for Hungarian yet (checked 2026-08-21) — leave
+  # practiceUrl unset so both the back-cover line and the site-note paragraph
+  # stay out of the DOM (see the theme's [params] contract). Add it back once
+  # a Hungarian course ships there.
+
+  # The theme's [params] contract — see themes/pocketbook-theme/README.md.
+  lang = "hu"
+  ogLocale = "hu_HU"
+  pages = 38
+  price = "9.09"
+  currency = "EUR"
+  # Must match PDF_BASENAME in the Makefile and .github/workflows/pdf.yml.
+  pdfBasename = "magyar-nyelvtan"
+  # The cover/og:image specimen word, tanulunk ("we learn"): stem plain,
+  # ending highlighted.
+  specimenStem = "tanul"
+  specimenEnding = "unk"
+  specimenCaption = "kijelentő mód, jelen idő · T/1"
+  ogCaption = "lényegi nyelvtan · B2 szint"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions.typographer]
+    disable = true
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+[build]
+  writeStats = false

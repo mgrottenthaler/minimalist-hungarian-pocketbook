@@ -1,0 +1,54 @@
+# UI-chrome strings read by the shared theme's layouts (themes/pocketbook-theme)
+# via {{ i18n "key" }}. Book content itself (chapters, blurb, omits, subtitle)
+# stays in content/ and hugo.toml [params] — this file is only the fixed
+# wrapper text every page has regardless of which chapters it contains.
+#
+# A paragraph that contains a link is split at the link boundary (xPre, the
+# link's own label, xPost) so the href stays in the template and only plain
+# text lives here — see themes/pocketbook-theme/README.md for the full
+# contract and where each piece lands on the page.
+
+themeToggleLabel = "Téma váltása"
+themeToggleToLight = "Váltás világos témára"
+themeToggleToDark = "Váltás sötét témára"
+
+versionLabel = "Verzió"
+
+buyPrimary = "Nyomtatott példány rendelése"
+buySecondary = "Order a printed copy — via Lulu"
+
+noteLicensePre = "A könyv ingyen olvasható, letölthető és nyomtatható — lásd a"
+noteLicenseLink = "licencet"
+noteLicensePost = ". Luluból vásárolva 2 € jut a szerzőnek. Az oldal alkalmazásként telepíthető a telefonra, és a böngésző menüjéből offline is olvasható."
+
+noteAiPre = "A tartalom mesterséges intelligencia segítségével készült, és megjelenés előtt a szerző ellenőrizte. Ha hibát találsz,"
+noteAiLink = "nyiss egy issue-t a GitHubon"
+noteAiPost = "."
+
+notePrintPre = "Ez a görgethető webes kiadás — nem a nyomdai tördelés. A pontosan olyan oldalakért, amilyenek nyomtatva lesznek, lásd a"
+notePrintLink = "nyomdai változatot"
+notePrintPost = "."
+
+notePdfLabel = "Nyomdakész PDF:"
+notePdfInterior = "belív"
+notePdfCover = "borító"
+
+notePracticePre = "Gyakorolnád ezeket az alakokat? Próbáld ki a"
+notePracticeLink = "VidraGramot"
+notePracticePost = " — rövid, azonnal javított gyakorlatok, offline is működik."
+
+toc = "Tartalom"
+
+legendBold = "félkövér"
+legendBoldDesc = "a végződés"
+legendItalic = "dőlt"
+legendItalicDesc = "példák"
+legendBox = "keret"
+legendBoxDesc = "kivételek"
+
+chaptersWord = "fejezet"
+bindingLine = "zsebkönyv formátum · spirálkötés"
+practiceLabel = "gyakorolj:"
+
+coverWord = "borító"
+socialCardWord = "közösségimédia-kártya"
