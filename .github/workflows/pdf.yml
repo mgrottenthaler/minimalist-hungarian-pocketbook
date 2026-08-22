@@ -7,7 +7,7 @@ name: Build PDF and deploy site
 # scripts/build-cover.mjs prints the cover sheet. Fonts are vendored in the
 # theme, so fetch-fonts.sh does not need to run here.
 #
-# This also deploys french.grottenthaler.eu, on the same trigger: the site
+# This also deploys hungarian.grottenthaler.eu, on the same trigger: the site
 # is only meant to move when a version is actually published, not on every
 # push to main, so it rides this tag-triggered job instead of Cloudflare's
 # git integration. See "Website" in the README.
@@ -20,7 +20,7 @@ permissions:
   contents: write
 
 env:
-  PDF_BASENAME: grammaire-francaise
+  PDF_BASENAME: magyar-nyelvtan
 
 jobs:
   build:
