@@ -25,7 +25,7 @@ Ha a melléknév állítmány — vagyis maga állítja a mondatot, **van/vannak
 
 | Tő vége | Minta | Példa |
 |---|---|---|
-| magánhangzó | + bb | szomorú → szomorú**bb**, drága → drága**bb** |
+| magánhangzó | + bb, -a/-e nyúlik | szomorú → szomorú**bb**, drága → drág**ább** |
 | mély, mássalhangzó | + abb | magas → magas**abb**, boldog → boldog**abb** |
 | magas, mássalhangzó | + ebb | kedves → kedves**ebb**, friss → friss**ebb** |
 

@@ -17,7 +17,7 @@ A toldalék mindig **-k**, de magánhangzó-illeszkedés szerinti kötőhangzót
 | magas, ajakkerekítés nélküli mássalhangzós | **-ek** | kert → kert**ek** |
 | magas, ajakkerekítéses mássalhangzós | **-ök** | gyümölcs → gyümölcs**ök** |
 
-> A végső **-a**/**-e** a toldalékok előtt megnyúlik: *alma → almát, almának, almák*; *kefe → kefét, kefének, kefék*. Ez nem csak a többes számra igaz, hanem szinte minden esetragra is.
+> A végső **-a**/**-e** a toldalékok előtt megnyúlik: *alma → almát, almának, almák*; *kefe → kefét, kefének, kefék*. Ez nemcsak a többes számra igaz, hanem szinte minden esetragra is.
 
 ## -ok vagy -ak?
 

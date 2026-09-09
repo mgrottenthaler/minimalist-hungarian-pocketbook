@@ -32,7 +32,7 @@ A közvetlen tárgy jele, kötőhangzóval mássalhangzós tő után.
 | Tő vége | Minta | Példa |
 |---|---|---|
 | magánhangzó | + t | kávé → kávé**t**, autó → autó**t** |
-| mély, mássalhangzó | + at/ot | ház → ház**at**, asztal → asztal**ot** |
+| mély, mássalhangzó | + at/ot | ház → ház**at**, ablak → ablak**ot** |
 | magas, mássalhangzó | + et/öt | kert → kert**et**, gyümölcs → gyümölcs**öt** |
 
 > Sok egytagú tő kötőhangzó nélkül is elviseli a **-t**-t: *pénz → pénzt*, *bor → bort*, de *könyv → könyvet*, *ház → házat* — nincs kivétel nélküli szabály, a kötőhangzós/kötőhangzó nélküli alak szavanként rögzült.
