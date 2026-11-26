@@ -31,9 +31,7 @@ disableKinds = ["taxonomy", "term", "RSS", "robotsTXT", "section", "404"]
   omits = "Nincs gyakorlat, nincs szókincs, nincs kiejtés — csak az alakok."
   url = "https://hungarian.grottenthaler.eu"
   repo = "github.com/mgrottenthaler/minimalist-hungarian-pocketbook"
-  # No Lulu listing exists yet for this book — swap in the real product URL
-  # once one is published (see the Romanian book's hugo.toml for the shape).
-  lulu = "#TODO-lulu-listing"
+  lulu = "https://www.lulu.com/shop/martin-grottenthaler/the-minimalist-hungarian-pocketbook/paperback/product-m2r9yvv.html"
 
   # The theme's [params] contract — see themes/pocketbook-theme/README.md.
   lang = "hu"
