@@ -7,14 +7,16 @@ A birtokviszonyt nem külön birtokos névmás fejezi ki, hanem **birtokos szem�
 
 ## Egy birtok, mássalhangzós tő
 
-| | ház (mély) | kert (magas) |
+| | ház (mély) | szék (magas) |
 |---|---|---|
-| (én) | ház**am** | kert**em** |
-| (te) | ház**ad** | kert**ed** |
-| (ő) | ház**a** | kert**e** |
-| (mi) | ház**unk** | kert**ünk** |
-| (ti) | ház**atok** | kert**etek** |
-| (ők) | ház**uk** | kert**ük** |
+| (én) | ház**am** | szék**em** |
+| (te) | ház**ad** | szék**ed** |
+| (ő) | ház**a** | szék**e** |
+| (mi) | ház**unk** | szék**ünk** |
+| (ti) | ház**atok** | szék**etek** |
+| (ők) | ház**uk** | szék**ük** |
+
+> Sok mássalhangzós tő is **-j-** elemmel kapja a 3. személyt: *kert → kert**je**, kert**jük***; *barát → barát**ja***; *pad → pad**ja***. Nincs biztos szabály — szavanként rögzült.
 
 ## Egy birtok, magánhangzós tő
 

@@ -35,7 +35,7 @@ A kötőhangzós **-ott/-ett/-ött** csak ott jelenik meg, ahol a mássalhangzó
 
 ## Amikor kötőhangzó kell
 
-Az **-ott/-ett/-ött** minden személyben megjelenik azoknál a töveknél, amelyek **-t**-re vagy nehezen ejthető mássalhangzó-torlódásra végződnek: *fest → festettem*, *épít → építettem*, *köt → kötöttem*. A legtöbb más mássalhangzós tő csak az E/3-ban kéri: *mond → mondtam*, de *mondott*; ugyanígy *néz → nézett*, *olvas → olvasott*, *lát → látott*. A **-l, -r, -n, -ny, -j** végű tövek ott sem kérik: *vár → várt*, *kér → kért*, *tanul → tanult*, *ül → ült*.
+Az **-ott/-ett/-ött** minden személyben megjelenik azoknál a töveknél, amelyek **-t**-re vagy nehezen ejthető mássalhangzó-torlódásra végződnek: *fest → festettem*, *épít → építettem*, *köt → kötöttem*. A legtöbb más mássalhangzós tő csak az E/3-ban kéri: *mond → mondtam*, de *mondott*; ugyanígy *néz → nézett*, *olvas → olvasott* — és kivételként a **-t** végű *lát* is: *láttam*, de *látott*. A **-l, -r, -n, -ny, -j** végű tövek ott sem kérik: *vár → várt*, *kér → kért*, *tanul → tanult*, *ül → ült*.
 
 ## A múlt idő használati köre
 

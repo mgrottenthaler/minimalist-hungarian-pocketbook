@@ -44,4 +44,4 @@ A hét napjai, a hónapok, a nemzetiségek és a nyelvek neve **kisbetűvel** í
 
 ## Amit felismersz, de nem használsz
 
-**A régi elbeszélő és folyamatos múlt** — a modern magyar egyetlen múlt időt használ (lásd az „Ige: múlt idő” fejezetet), de a 20. század elejéig még élt egy háromtagú múltidő-rendszer (*vala*-formák), amellyel 19. századi szövegekben, régi bibliafordításokban találkozhatsz. A mai nyelvhasználó nem termeli, csak felismeri.
+**A régi elbeszélő és folyamatos múlt** — a modern magyar egyetlen múlt időt használ (lásd az „Ige: múlt idő” fejezetet), de a régebbi nyelvben élt egy háromtagú múltidő-rendszer (*vala*-formák), amellyel 19. századi szövegekben, régi bibliafordításokban találkozhatsz. A mai nyelvhasználó nem termeli, csak felismeri.

@@ -44,4 +44,4 @@ Rögzített tervnél, menetrendnél a jelen idő gyakoribb, mint a **fog**-os al
 - *Holnap **utazom**.* (természetesebb, mint *holnap fogok utazni*)
 - *A vonat **indul** kilenckor.*
 
-A **fog**-os alak inkább bizonytalanabb, távolabbi vagy ígéretszerű jövőt jelez: *Egyszer **fogok** még Budapesten **élni**.*
+A **fog**-os alak inkább bizonytalanabb, távolabbi vagy ígéretszerű jövőt jelez: *Egyszer még Budapesten **fogok élni**.*

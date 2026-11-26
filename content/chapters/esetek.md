@@ -47,6 +47,7 @@ A közvetlen tárgy jele, kötőhangzóval mássalhangzós tő után.
 | eredményhatározó | **-vá/-vé** | tanár**rá** lesz |
 | határidő (terminativus) | **-ig** | hétfő**ig** várok |
 | állapothatározó | **-ként**, **-ul/-ül** | tanár**ként** dolgozik, magyar**ul** beszél |
+| időpont | **-kor** | öt óra**kor**, karácsony**kor** — nem illeszkedik |
 
 > Az **-val/-vel** és a **-vá/-vé** kezdő **v**-je hasonul a tő végső mássalhangzójához: *asztal → asztallal*, *kés → késsel*, *víz → vízzel*. Magánhangzós tő után marad a **v**: *autóval, autóvá*.
 
@@ -54,7 +55,7 @@ A közvetlen tárgy jele, kötőhangzóval mássalhangzós tő után.
 
 A magyar sok igét köt szorosan egy-egy esethez, ahol más nyelv más viszonyszót választana:
 
-- **gondol valamire** (sublativus, nem *-ról*): *A nyaralásra gondolok.*
+- **gondol valamire** (sublativus): *A nyaralásra gondolok.* — de *gondol valamit valamiről* = véleménye van róla: *Mit gondolsz erről?*
 - **emlékszik valamire** (sublativus): *Emlékszem a névre.*
 - **vár valakit/valamit** (tárgyeset, nincs elöljáró): *Várom a barátomat.*
 - **találkozik valakivel** (instrumentalis): *Találkozom Péterrel.*

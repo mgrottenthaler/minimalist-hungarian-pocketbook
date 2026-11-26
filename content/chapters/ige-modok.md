@@ -65,3 +65,27 @@ Kívánságot, célt, szükségességet kifejező főmondat után **hogy** + fel
 - *Szeretném, **hogy elolvasd** ezt a könyvet.*
 
 **Kell** után főnévi igenévvel és birtokos személyjellel gyakoribb, mint *hogy* + felszólító mód: *Mennem **kell*** (nem szükségszerűen *kell, hogy menjek*, bár ez is előfordul).
+
+## Lehetőség és engedély: -hat/-het
+
+A **-hat/-het** képző az igető és a személyrag közé kerül; utána a ragozás szabályos, alanyi és tárgyas egyaránt.
+
+| | vár, alanyi | vár, tárgyas | kér, alanyi |
+|---|---|---|---|
+| (én) | vár**hat**ok | vár**hat**om | kér**het**ek |
+| (te) | vár**hat**sz | vár**hat**od | kér**het**sz |
+| (ő) | vár**hat** | vár**hat**ja | kér**het** |
+
+- engedély: *Itt **várhatsz**.* · ***Megnézhetem**?* · *Nem **mehetsz** el.*
+- lehetőség: *Holnap **eshet** az eső.* · *Ez **igaz lehet**.*
+
+> Rendhagyó tövek: *van/lesz → **lehet***, *megy → **mehet***, *jön → **jöhet***, *eszik → **ehet***, *iszik → **ihat***, *tesz → **tehet***, *vesz → **vehet***, *visz → **vihet***, *hisz → **hihet***.
+
+## Műveltetés: -at/-et, -tat/-tet
+
+Valaki mással végezteti a cselekvést. Egytagú tövön általában **-at/-et**, többtagú és **-t** végű tövön **-tat/-tet**; a végrehajtó **-val/-vel** ragot kap.
+
+- *ír → **írat***, *mos → **mosat***, *vár → **várat***
+- *olvas → **olvastat***, *dolgozik → **dolgoztat***, *javít → **javíttat***
+- *Megjavíttatom az autót **a szerelővel**.*
+

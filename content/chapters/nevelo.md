@@ -26,7 +26,7 @@ weight: 10
 - foglalkozás, nemzetiség, vallás állítmányként: *Tanár vagyok. Orvos vagy?*
 - általános, nem konkrét állítások: *Szeretek zenét hallgatni. Van időm.*
 - megszólítás: *Gyerekek, gyertek ide!*
-- felsorolásban, mennyiség után gyakran elmarad: *két alma*, nem *két az alma*
+- számnév vagy mennyiségjelző után, ha nem meghatározott dologról van szó: *Két almát vettem.* · *Sok ember volt ott.*
 
 ## A névelő és a tárgyas ragozás
 

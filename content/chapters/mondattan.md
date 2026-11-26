@@ -34,6 +34,8 @@ Eldöntendő kérdés: **nincs** szórendváltozás, csak az intonáció (írás
 
 - *Péter megírta a levelet.* → *Péter megírta a levelet?*
 
+Függő kérdésben az igéhez **-e** kérdőszócska járul, kötőjellel: *Nem tudom, megírta**-e** a levelet.*
+
 Kiegészítendő kérdés: a kérdőszó maga foglalja el a fókuszhelyet, és ugyanúgy szétválasztja az igekötőt.
 
 - *Ki írta **meg** a levelet?*

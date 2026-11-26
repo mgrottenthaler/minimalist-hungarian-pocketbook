@@ -9,7 +9,7 @@ A leggyakoribb igék térnek el legjobban a szabályos mintától — ahogy más
 |---|---|---|---|---|
 | **lenni** (van) | vagyok | van | volt | légy |
 | **menni** | megyek | megy | ment | menj |
-| **jönni** | jövök | jön | jött | jöjj |
+| **jönni** | jövök | jön | jött | gyere (*jöjj*) |
 | **enni** (eszik) | eszem | eszik | evett | egyél |
 | **inni** (iszik) | iszom | iszik | ivott | igyál |
 | **aludni** (alszik) | alszom | alszik | aludt | aludj |
